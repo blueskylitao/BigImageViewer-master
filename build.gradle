@@ -67,11 +67,11 @@ ext {
     releaseVersionCode = 6
     releaseVersionName = '1.2.0'
 
-    androidCompileSdkVersion = 24
+    androidCompileSdkVersion = 23
     androidBuildToolsVersion = '25.0.0'
     androidSupportSdkVersion = '25.0.0'
     minSdkVersion = 16
-    targetSdkVersion = 24
+    targetSdkVersion = 23
 
     frescoVersion = '0.14.1'
     glideVersion = '3.7.0'
